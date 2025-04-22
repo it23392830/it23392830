@@ -1,29 +1,5 @@
  Sandalika Gunawardhana
 
-
-Feel free to connect with me for collaborations or discussions about web development and technology!
-
-[Add your professional social media links here]
-
-### 🛠️ Languages and Tools
-
-[Your existing tools section]
-
-### 📊 GitHub Stats
-
-[Your existing stats section]
-
----
-
-Last edited just now
-
-
-Publish  
-
----
-
-
-
 ## 🔧 Technologies and Tools  
 
 <h3 align="left">Languages and Tools:</h3>
