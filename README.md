@@ -1,45 +1,8 @@
-# Hi there 👋, I'm Sandalika Gunwadhana
+ Sandalika Gunawardhana
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sadumina/images-/refs/heads/main/DALL%C2%B7E%202025-01-22%2013.03.04%20-%20A%20vibrant%20and%20dynamic%20GitHub%20profile%20header%20for%20a%20passionate%20web%20developer%20specializing%20in%20MERN%20stack%2C%20Java%2C%20and%20modern%20technologies.%20The%20design%20featu.webp" alt="" width="800" height="250"/>
 </p>
-
-## 👨‍💻 About Me  
-
-I am currently pursuing my BSc in Computer Science at the Sri Lanka Institute of Information Technology (SLIIT), where I'm developing a strong foundation in computer science principles and software development. My academic journey is complemented by hands-on experience in frontend development and a keen interest in creating user-centric web applications.
-
-#### What I'm Currently Doing:
-
-- 📚 Studying Computer Science at SLIIT
-- 💻 Focusing on Frontend Development with modern technologies
-- 🌱 Learning and exploring new web technologies and frameworks
-- 👨‍💻 Working on personal projects to enhance my portfolio
-- 🤝 Open to collaborating on innovative web development projects
-
-#### My Technical Focus:
-
-- **Frontend Development:** HTML5, CSS3, JavaScript, React.js
-- **UI Frameworks:** Bootstrap, Tailwind CSS
-- **Version Control:** Git & GitHub
-- **Design Tools:** Figma, Adobe Illustrator, Photoshop
-- **Currently Learning:** Node.js, Next.js, and Advanced React Patterns
-
-#### Academic Interests:
-
-- Web Application Development
-- User Interface Design
-- Software Engineering Principles
-- Database Management Systems
-- Algorithms and Data Structures
-
-### 🎯 Goals
-
-- To become a skilled Full Stack Developer
-- To contribute to open-source projects
-- To create innovative web solutions that make a difference
-- To continue learning and staying updated with latest technologies
-
-### 📫 How to Reach Me
 
 Feel free to connect with me for collaborations or discussions about web development and technology!
 
@@ -54,8 +17,6 @@ Feel free to connect with me for collaborations or discussions about web develop
 [Your existing stats section]
 
 ---
-
-💡 I'm always interested in new projects and technologies. Let's connect and create something amazing together!
 
 Last edited just now
 
@@ -76,6 +37,3 @@ Publish
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it23392830&" alt="it23392830" /></p>
 ---
 
-## 🌟 Fun Fact  
-
-- 🌟 I believe coding is like solving puzzles every day—it keeps your mind sharp and your creativity alive!  
